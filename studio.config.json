@@ -1,0 +1,46 @@
+{
+  "packages": {
+    "dir": "",
+    "menu": [
+      [
+        "tokens",
+        [
+          "colors",
+          "background-color",
+          "text-color",
+          "border-color",
+          "font",
+          "font-size",
+          "opacity",
+          "line-height",
+          "spacing",
+          "radius",
+          "sizing",
+          "shadow",
+          "time",
+          "touch",
+          "media-query",
+          "z-index"
+        ]
+      ],
+      [
+        "Lightning",
+        [
+          "button"
+        ]
+      ],
+      [
+        "base",
+        [
+          "lightning-base"
+        ]
+      ],
+      [
+        "dockit",
+        [
+          "mdx-layout"
+        ]
+      ]
+    ]
+  }
+}

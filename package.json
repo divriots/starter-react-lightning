@@ -1,0 +1,21 @@
+{
+  "name": "@backlight-dev/divriots.react-lightning",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve ZGudTbKg0i8ZM3zpbXST --open"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "@salesforce-ux/design-system": "^2.16.2",
+    "@salesforce/design-system-react": "^0.10.38"
+  },
+  "devDependencies": {
+    "@divriots/dockit-react": "^0.0.79",
+    "@mdx-js/react": "^1.6.22"
+  }
+}
